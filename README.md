@@ -54,6 +54,11 @@ Developed in India 🇮🇳
 Buy Me A Coffee
 
 <!--START_SECTION:feed-->
+* [Ukraine war: EU blames Russia for food crisis prompting walkout](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;world-europe-61714234?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
+* [Ukraine war: Severodonetsk and Lysychansk are dead cities - Zelensky](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;world-europe-61711028?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
+* [Geologist Jim Fitton jailed in Iraq &#39;shell shocked&#39; over verdict](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;uk-england-somerset-61718262?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
+* [Arizona police placed on leave after watching man drown](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;world-us-canada-61712871?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
+* [Top Gun maker Paramount sued over copyright breach](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;business-61714737?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
 <!--END_SECTION:feed-->
 
 
