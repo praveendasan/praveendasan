@@ -52,3 +52,8 @@ Join Community
 Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
+
