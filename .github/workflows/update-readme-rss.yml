@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: http://feeds.bbci.co.uk/news/world/rss.xml
+          feed-url: http://rss.cnn.com/rss/cnn_topstories.rss
           readme-section: feed
 # Add section to repo README
 # <!--START_SECTION:feed-->
