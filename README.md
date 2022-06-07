@@ -54,11 +54,11 @@ Developed in India 🇮🇳
 Buy Me A Coffee
 
 <!--START_SECTION:feed-->
-* [Ukraine war: EU blames Russia for food crisis prompting walkout](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;world-europe-61714234?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
-* [Ukraine war: Severodonetsk and Lysychansk are dead cities - Zelensky](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;world-europe-61711028?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
-* [Geologist Jim Fitton jailed in Iraq &#39;shell shocked&#39; over verdict](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;uk-england-somerset-61718262?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
-* [Arizona police placed on leave after watching man drown](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;world-us-canada-61712871?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
-* [Top Gun maker Paramount sued over copyright breach](https:&#x2F;&#x2F;www.bbc.co.uk&#x2F;news&#x2F;business-61714737?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA)
+* [In Los Angeles and San Francisco, two of the nation&#39;s most liberal large cities, voters are poised to send stinging messages of discontent](https:&#x2F;&#x2F;www.cnn.com&#x2F;2022&#x2F;06&#x2F;07&#x2F;politics&#x2F;california-primary-election-da-race&#x2F;index.html)
+* [Primaries continue with elections in seven states](https:&#x2F;&#x2F;www.cnn.com&#x2F;politics&#x2F;live-news&#x2F;june-7-primary-election-results&#x2F;index.html)
+* [How the new congressional map shifts voting power in California](https:&#x2F;&#x2F;www.cnn.com&#x2F;interactive&#x2F;2022&#x2F;politics&#x2F;us-redistricting&#x2F;california-redistricting-map&#x2F;)
+* [Rural Californians are desperate for water](https:&#x2F;&#x2F;www.cnn.com&#x2F;2022&#x2F;06&#x2F;05&#x2F;us&#x2F;california-rural-groundwater-crisis-climate&#x2F;index.html)
+* [Democratic senate candidate undisclosed heart condition raises concerns](https:&#x2F;&#x2F;www.cnn.com&#x2F;videos&#x2F;politics&#x2F;2022&#x2F;06&#x2F;07&#x2F;fetterman-pennsylvania-senate-stroke-heart-condition-zeleny-pkg-sot-dlt.cnn)
 <!--END_SECTION:feed-->
 
 
