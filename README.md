@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tweetsfromprav" target="blank"><img src="https://img.shields.io/twitter/follow/tweetsfromprav?logo=twitter&style=for-the-badge" alt="tweetsfromprav" /></a> </p>
 
-- 🌱 I’m currently learning **Azure Cloud devops**
+- 🌱 I’m currently learning **Azure Cloud infra**
 
 - 💬 Ask me about **Microsoft dynamics 365 Finance and operation**
 
